@@ -12,7 +12,7 @@
 ## I'm a Computer Science Student  
 
 - 👨‍💻I'm currently studing at UESB and by my self
-- 📚I’m currently learning frameworks like spring, react, angular and everything about full stack technologies 😅
+- 📚I’m currently learning spring, react, bootstrap and everything about full stack technologies 😅
 - 🔭 Future Goals: Learn more technologies - be a Full Stack dev - Never stop learn
 ---
 ## 🚀 Skills
