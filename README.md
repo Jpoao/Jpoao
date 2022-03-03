@@ -5,7 +5,8 @@
 <div aling = center>
   <p align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-do-espirito-santo-43bbb6210/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://t.me/Jpoao"><img src="https://img.shields.io/badge/telegram-%230177B5?style=flat&logo=telegram&logoColor=white"/></a>
+    <a href="https://t.me/Jpoao"><img src="https://img.shields.io/badge/telegram-%230177B5?style=flat&logo=telegram&logoColor=white"/></a
+      <a href="https://discordapp.com/users/9717"<img src"https://img.shields.io/badge/discord-%235865F2B0?style=flat&logo=discord&logoColor=white"/></a>
   </p>
 </div>
 
