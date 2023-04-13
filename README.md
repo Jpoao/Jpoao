@@ -13,7 +13,6 @@
 ## I'm a Computer Science Student  
 
 - 👨‍💻I'm currently studing at UESB and by my self
-- 📚I’m currently learning spring, react, bootstrap and everything about full stack technologies 😅
 - 🔭 Future Goals: Learn more technologies - be a Full Stack dev - Never stop learn
 ---
 ## 🚀 Skills
@@ -24,11 +23,7 @@
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-    <code><img height="40" src="https://camo.githubusercontent.com/54aae4033dc52a7e9aae63cf78ed134384422192a897037ee77b96cc657df5ab/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f542f747970657363726970742d6c6f676f2d423239413346343632442d7365656b6c6f676f2e636f6d2e706e67"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-    <code><img height="40" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg"></code>
-</div> 
+
 
 ---
 
