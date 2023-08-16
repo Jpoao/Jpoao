@@ -13,7 +13,7 @@
 ## I'm a Computer Science Student  
 
 - 👨‍💻I'm currently studing at UESB and by my self
-- 🔭 Future Goals: Learn more technologies - be a Full Stack dev - Never stop learn
+- 🔭 Future Goals: Learn more technologies - being a developer impacting my team and people with technological features and solutions - Never stop learn
 ---
 ## 🚀 Skills
 
